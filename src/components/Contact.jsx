@@ -1,7 +1,7 @@
 import { useTranslations } from "../hooks/useTranslations.jsx"
 import { SectionKicker } from "./About.jsx"
 
-const EMAIL = "your.email@example.com"
+const EMAIL = "jolann.madec21@gmail.com"
 const GITHUB = "https://github.com/your-handle"
 
 export default function Contact() {

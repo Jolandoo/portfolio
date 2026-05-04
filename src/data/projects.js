@@ -11,7 +11,7 @@ export const projects = [
     },
     tech: ["Next.js 15", "TypeScript", "Tailwind", "Sanity", "Framer Motion", "Resend"],
     github: "https://github.com/Jolandoo/manco-paris",
-    demo: "https://manco.paris",
+    demo: "https://manco-paris.vercel.app",
     year: "2026",
   },
   {
@@ -54,8 +54,8 @@ export const projects = [
     id: "trading-bot",
     title: { fr: "Trading Bot", en: "Trading Bot" },
     description: {
-      fr: "Bot algo BTC/USDT sur Binance — stratégie Golden Cross / RSI filtrée par SMA200, gestion du risque (SL/TP, sizing) et dashboard temps réel.",
-      en: "Algorithmic BTC/USDT bot on Binance — Golden Cross / RSI strategy filtered by SMA200, risk management (SL/TP, sizing) and real-time dashboard.",
+      fr: "Bot algo BTC/USDT sur Binance. Stratégie Golden Cross / RSI filtrée par SMA200, gestion du risque (SL/TP, sizing) et dashboard temps réel.",
+      en: "Algorithmic BTC/USDT bot on Binance. Golden Cross / RSI strategy filtered by SMA200, risk management (SL/TP, sizing) and real-time dashboard.",
     },
     tech: ["Python", "FastAPI", "WebSockets", "Binance API"],
     github: "https://github.com/Jolandoo/Trading-Bot",

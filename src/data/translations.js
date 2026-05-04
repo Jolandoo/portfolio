@@ -11,7 +11,7 @@ export const translations = {
       name: "Jolann",
       tagline: "Ingénieur logiciel",
       intro:
-        "Je conçois et développe des produits soignés, performants et utiles — du backend au pixel près.",
+        "Je conçois et développe des produits soignés, performants et utiles, du backend au pixel près.",
       ctaProjects: "Voir les projets",
       ctaContact: "Me contacter",
     },
@@ -26,7 +26,7 @@ export const translations = {
       kicker: "Travaux récents",
       title: "Projets sélectionnés",
       subtitle:
-        "Une petite sélection — la liste s'allongera au fil du temps.",
+        "Une petite sélection. La liste s'allongera au fil du temps.",
       viewCode: "Code",
       viewLive: "Démo",
       soon: "Bientôt",
@@ -56,7 +56,7 @@ export const translations = {
       name: "Jolann",
       tagline: "Software Engineer",
       intro:
-        "I design and build polished, performant, useful products — from backend to pixel.",
+        "I design and build polished, performant, useful products, from backend to pixel.",
       ctaProjects: "See projects",
       ctaContact: "Get in touch",
     },
@@ -70,7 +70,7 @@ export const translations = {
     projects: {
       kicker: "Recent work",
       title: "Selected projects",
-      subtitle: "A small selection — the list will grow over time.",
+      subtitle: "A small selection. The list will grow over time.",
       viewCode: "Code",
       viewLive: "Demo",
       soon: "Soon",
